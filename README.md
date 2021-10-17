@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Abhi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**AbhiShake1/AbhiShake1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AbhiShake1)](https://github.com/AbhiShake1) 
+[![GitHub followers](https://img.shields.io/github/followers/AbhiShake1.svg?style=social&label=Follow)](https://github.com/AbhiShake1?tab=followers)
 
-Here are some ideas to get you started:
+![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=AbhiShake1&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiShake1&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1/github-readme-stats)
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+[![Telegram Badge](https://img.shields.io/badge/-%7C%20@Abhi_Shake-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Abhi_Shake)](https://t.me/Abhi_Shake "Telegram")
+[![Email Badge](https://img.shields.io/badge/-%7C%20AbhionFire@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:AbhionFire@protonmail.com)](mailto:AbhionFire@protonmail.com)
