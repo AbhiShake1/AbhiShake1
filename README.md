@@ -1,7 +1,7 @@
 # Hi, I'm Abhi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AbhiShake1)](https://github.com/AbhiShake1) 
-[![GitHub followers](https://img.shields.io/github/followers/AbhiShake1.svg?style=social&label=Follow)](https://github.com/AbhiShake1?tab=followers)
+[![Follower](https://img.shields.io/github/followers/AbhiShake1.svg?style=for-the-badge&logo=Follow)](https://github.com/AbhiShake1?tab=followers)
 
 ![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=AbhiShake1&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
