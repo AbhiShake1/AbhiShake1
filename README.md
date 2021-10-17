@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiShake1&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1?tab=repositories)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
