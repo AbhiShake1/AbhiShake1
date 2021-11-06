@@ -10,7 +10,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1?tab=repositories)
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>
+    Connect with me 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  
+</h2>
 
 [![Telegram Badge](https://img.shields.io/badge/-%7C%20@Abhi_Shake-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Abhi_Shake)](https://t.me/Abhi_Shake "Telegram")
 [![Email Badge](https://img.shields.io/badge/-%7C%20AbhionFire@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:AbhionFire@protonmail.com)](mailto:AbhionFire@protonmail.com)
