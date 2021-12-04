@@ -5,7 +5,7 @@
 
 ![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=AbhiShake1&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiShake1&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhiShake1&theme=ads-juicy-fresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1?tab=repositories)
 
