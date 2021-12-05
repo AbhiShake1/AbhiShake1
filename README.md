@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AbhiShake1)](https://github.com/AbhiShake1) 
 [![Github Followers](https://img.shields.io/github/followers/AbhiShake1.svg?style=social&logo=Follow)](https://github.com/AbhiShake1?tab=followers)
 
-![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=AbhiShake1&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=AbhiShake1&show_icons=true&theme=radical&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhiShake1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
